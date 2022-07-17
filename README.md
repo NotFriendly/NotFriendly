@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NotFriendly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 嗨，我不友善
+- 👀 我对golang,python,js感兴趣。。。
+- 🌱 我现在正在学习golang,python,js
+- 💞️ 我希望在以下方面进行合作。。。
+
 
 <!---
 NotFriendly/NotFriendly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
